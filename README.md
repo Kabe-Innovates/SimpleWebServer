@@ -40,7 +40,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 Developed by : **KABELAN G K**
 
 Reg no : **21222411027**
-```
+```python
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
